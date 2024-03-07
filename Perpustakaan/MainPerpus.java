@@ -1,7 +1,7 @@
 package Perpustakaan;
 import java.util.Scanner;
 
-class MainPerpus {
+public class MainPerpus {
     public static void main(String[] args) {
 
         Scanner scn = new Scanner(System.in);

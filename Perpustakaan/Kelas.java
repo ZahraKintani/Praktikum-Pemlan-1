@@ -1,6 +1,6 @@
 package Perpustakaan;
 
-public class Kelas {
+class Kelas {
     String[][] teknologi = {{"Rekayasa Perangkat Lunak Berbasis Web", "Dwi Ningsih & Heriyanto", "380", "2018", "Andi Offset"}, 
                             {"Pemrograman Python untuk Ilmuwan Data", "Ahmad Syarif Hidayatullah", "350", "2020", "Penerbit Informatika"}, 
                             {"Pengantar Sistem Informasi", "Oktavianus Irkham Wicaksono", "300", "2019", "Penerbit Andi"}, 
